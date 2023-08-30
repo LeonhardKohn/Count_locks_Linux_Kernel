@@ -1,2 +1,3 @@
 # Count_locks_Linux_Kernel
-Here are a few small programms, that run a shell command and store the result in a file. Then you can visualize them. In my case I use them to look for patterns in the Linux Kernel, like mutex_lock. 
+Here are a few small programs that execute a shell command and save the output to a file for visualization purposes. I personally use these programs to search for patterns in the Linux Kernel, such as mutex_lock. 
+In order to search for other patterns, I manually adjusted the patterns.
